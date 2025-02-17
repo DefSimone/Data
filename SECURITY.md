@@ -43,4 +43,4 @@ We gratefully acknowledge the contributions of security researchers and communit
 
 ---
 
-*© 2025 [DefSimone]. All rights reserved.*
+*© 2025 DefSimone. All rights reserved.*
